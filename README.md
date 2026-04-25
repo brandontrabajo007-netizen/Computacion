@@ -108,7 +108,7 @@ https://github.com/brandontrabajo007-netizen/Computacion
 
 # Integrantes del Grupo
 
-* Juan Carlos Suárez Merchán
+* Juan Carlos Suarez Merchan
 * Brandon David velandia Marín
 * Miguel Alejandro Vanegas Carrillo
 
